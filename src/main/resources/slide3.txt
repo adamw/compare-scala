@@ -1,0 +1,7 @@
+Disclaimer: Kotlin & Java
+
+* No practical Kotlin experience
+
+* Only pre-8 Java experience
+
+Curious to hear other presentations ...

@@ -1,0 +1,11 @@
+About me
+
+* coder @ [SoftwareMill](http://www.softwaremill.com)
+
+* open-source: Quicklens, MacWire, Envers, ElasticMQ, ...
+
+* [blog](http://www.warski.org)
+
+* [twitter](@adamwarski)
+
+* Scala since 2009

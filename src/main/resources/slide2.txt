@@ -1,0 +1,18 @@
+Scala
+
+* Combines OO & FP
+* Java-interop, compiles to JVM & JS
+
+* classes, objects, traits
+
+* Lambdas, higher-order functions
+
+* Concise syntax
+
+* Implicit parameters
+* Implicit conversions
+
+* Type system!
+* Some type inference
+
+* ...
